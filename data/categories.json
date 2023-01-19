@@ -1,0 +1,42 @@
+[
+    {
+        "id": "01",
+        "name": "HTML"
+    },
+    {
+        "id": "02",
+        "name": "CSS"
+    },
+    {
+        "id": "03",
+        "name": "Bootstrap"
+    },
+    {
+        "id": "04",
+        "name": "TailwindCSS"
+    },
+    {
+        "id": "05",
+        "name": "Javascript"
+    },
+    {
+        "id": "06",
+        "name": "ReactJS"
+    },
+    {
+        "id": "07",
+        "name": "NodeJS"
+    },
+    {
+        "id": "08",
+        "name": "Firebase"
+    },
+    {
+        "id": "09",
+        "name": "MongoDB"
+    },
+    {
+        "id": "10",
+        "name": "All Courses"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "_id": "01",
+        "course_name": "HTML",
+        "course_heading": "",
+        "course_details": "",
+        "photo": ""
+    },
+    {
+        "_id": "02",
+        "course_name": "CSS",
+        "course_heading": "",
+        "course_details": "",
+        "photo": ""
+    },
+    {
+        "_id": "03",
+        "course_name": "Bootstrap",
+        "course_heading": "",
+        "course_details": "",
+        "photo": ""
+    },
+    {
+        "_id": "04",
+        "course_name": "TailwindCSS",
+        "course_heading": "",
+        "course_details": "",
+        "photo": ""
+    },
+    {
+        "_id": "05",
+        "course_name": "JavaScript",
+        "course_heading": "",
+        "course_details": "",
+        "photo": ""
+    },
+    {
+        "_id": "06",
+        "course_name": "ReactJS",
+        "course_heading": "",
+        "course_details": "",
+        "photo": ""
+    },
+    {
+        "_id": "07",
+        "course_name": "NodeJs",
+        "course_heading": "",
+        "course_details": "",
+        "photo": ""
+    },
+    {
+        "_id": "08",
+        "course_name": "Firebase",
+        "course_heading": "",
+        "course_details": "",
+        "photo": ""
+    },
+    {
+        "_id": "MongoDB",
+        "course_name": "HTML",
+        "course_heading": "",
+        "course_details": "",
+        "photo": ""
+    }
+]
