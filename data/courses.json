@@ -43,7 +43,7 @@
     },
     {
         "_id": "07",
-        "course_name": "NodeJs",
+        "course_name": "NodeJS",
         "course_heading": "",
         "course_details": "",
         "photo": ""
@@ -56,8 +56,8 @@
         "photo": ""
     },
     {
-        "_id": "MongoDB",
-        "course_name": "HTML",
+        "_id": "09",
+        "course_name": "MongoDB",
         "course_heading": "",
         "course_details": "",
         "photo": ""
