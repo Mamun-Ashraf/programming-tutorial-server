@@ -2,64 +2,64 @@
     {
         "_id": "01",
         "course_name": "HTML",
-        "course_heading": "",
-        "course_details": "",
-        "photo": ""
+        "course_heading": "Learn And Apply Every Major HTML, HTML5 Element And Attribute.",
+        "course_details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes, and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as <img /> and <input /> directly introduce content into the page. Other tags such as <p> surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags but use them to interpret the content of the page HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. The inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.[2] A form of HTML, known as HTML5, is used to display video and audio, primarily using the <canvas> element, in collaboration with JavaScript",
+        "photo": "https://www.freepnglogos.com/images/html5-logo-31813.html"
     },
     {
         "_id": "02",
         "course_name": "CSS",
-        "course_heading": "",
-        "course_details": "",
-        "photo": ""
+        "course_heading": "Explore All Major CSS And CSS3 Style Rules.",
+        "course_details": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. CSS is designed to enable the separation of content and presentation, including layout colors and fonts This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting. Separation of formatting and content also makes it feasible to present the same markup page in different styles for different rendering methods such as on-screen in print by voice (via speech-based browser or screen reader) and on Braille-based tactile devices. CSS also has rules for alternate formatting if the content is accessed on a mobile device. The name cascading comes from the specified priority scheme to determine which style rule applies if more than one rule matches a particular element. This cascading priority scheme is predictable. The CSS specifications are maintained by the World Wide Web Consortium (W3C). Internet media type (MIME type) text/css is registered for use with CSS by RFC 2318 (March 1998). The W3C operates a free CSS validation service for CSS documents",
+        "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fhtml5-logo&psig=AOvVaw3ufBqHal0vfzK1lC-1V10y&ust=1674319070809000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOj3_9zK1vwCFQAAAAAdAAAAABAE"
     },
     {
         "_id": "03",
         "course_name": "Bootstrap",
-        "course_heading": "",
-        "course_details": "",
-        "photo": ""
+        "course_heading": "Explore All Major CSS And CSS3 Style Rules",
+        "course_details": "Bootstrap is an HTML, CSS and JS library that focuses on simplifying the development of informative web pages (as opposed to web applications). The primary purpose of adding it to a web project is to apply Bootstrap's choices of color, size, font and layout to that project. As such, the primary factor is whether the developers in charge find those choices to their liking. Once added to a project, Bootstrap provides basic style definitions for all HTML elements. The result is a uniform appearance for prose, tables and form elements across web browsers. In addition, developers can take advantage of CSS classes defined in Bootstrap to further customize the appearance of their contents. For example, Bootstrap has provisioned for light- and dark-colored tables, page headings, more prominent pull quotes, and text with a highlight Bootstrap also comes with several JavaScript components which do not require other libraries like jQuery. They provide additional user interface elements such as dialog boxes tooltips progress bars navigation drop-downs and carousels. Each Bootstrap component consists of an HTML structure CSS declarations and in some cases accompanying JavaScript code. They also extend the functionality of some existing interface elements including for example an auto-complete function for input fields.Example of a webpage using Bootstrap framework Example of a webpage using Bootstrap framework rendered in Firefox The most prominent components of Bootstrap are its layout components as they affect an entire web page. The basic layout component is called Container as every other element in the page is placed in it. Developers can choose between a fixed-width container and a fluid-width container. While the latter always fills the width with the web page the former uses one of the five predefined fixed widths depending on the size of the screen showing the page",
+        "photo": "https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg"
     },
     {
         "_id": "04",
         "course_name": "TailwindCSS",
-        "course_heading": "",
-        "course_details": "",
-        "photo": ""
+        "course_heading": "Explore All Major CSS And CSS3 Style Rules",
+        "course_details": "ailwind CSS can be used to style websites in the fastest and easiest way.Tailwind CSS is basically a utility-first CSS framework for rapidly building custom user interfaces. It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.The beauty of this thing called tailwind is it doesnt impose design specifications or how your site should look, you simply bring tiny components together to construct a user interface that is unique. What Tailwind simply does is take a raw CSS file, process this CSS file over a configuration file, and produces an output.",
+        "photo": "https://uxwing.com/tailwind-css-icon/"
     },
     {
         "_id": "05",
         "course_name": "JavaScript",
-        "course_heading": "",
-        "course_details": "",
-        "photo": ""
+        "course_heading": "You Will Learn JavaScript Core Concepts",
+        "course_details": "The first popular web browser with a graphical user interface Mosaic was released in 1993. Accessible to non-technical people, it played a prominent role in the rapid growth of the nascent World Wide Web. The lead developers of Mosaic then founded the Netscape corporation which released a more polished browser Netscape Navigator in 1994. This quickly became the most-used. During these formative years of the Web web pages could only be static lacking the capability for dynamic behavior after the page was loaded in the browser. There was a desire in the flourishing web development scene to remove this limitation so in 1995 Netscape decided to add a scripting language to Navigator. They pursued two routes to achieve this: collaborating with Sun Microsystems to embed the Java programming language while also hiring Brendan Eich to embed the Scheme language.Netscape management soon decided that the best option was for Eich to devise a new language with syntax similar to Java and less like Scheme or other extant scripting languages.[5][6] Although the new language and its interpreter implementation were called LiveScript when first shipped as part of a Navigator beta in September 1995 the name was changed to JavaScript for the official release in December.The choice of the JavaScript name has caused confusion implying that it is directly related to Java. At the time the dot-com boom had begun and Java was the hot new language so Eich considered the JavaScript name a marketing ploy by Netscape",
+        "photo": "https://www.freepnglogos.com/pics/javascript"
     },
     {
         "_id": "06",
         "course_name": "ReactJS",
-        "course_heading": "",
-        "course_details": "",
-        "photo": ""
+        "course_heading": "You Will Learn React Core Concepts",
+        "course_details": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality",
+        "photo": "https://thelogofinder.com/downloads/reactjs-ar21/"
     },
     {
         "_id": "07",
         "course_name": "NodeJS",
-        "course_heading": "",
-        "course_details": "",
-        "photo": ""
+        "course_heading": "Implement A Server Side Node And Express Based Application",
+        "course_details": "Node.js was written initially by Ryan Dahl in 2009,[24] about thirteen years after the introduction of the first server-side JavaScript environment, Netscape's LiveWire Pro Web.[25] The initial release supported only Linux and Mac OS X. Its development and maintenance was led by Dahl and later sponsored by Joyent.Dahl criticized the limited possibilities of the most popular web server in 2009 Apache HTTP Server to handle a lot of concurrent connections (up to 10000 and more) and the most common way of creating code (sequential programming) when code either blocked the entire process or implied multiple execution stacks in the case of simultaneous connections.Dahl demonstrated the project at the inaugural European JSConf on November 8 2009 Node.js combined Google's V8 JavaScript engine an event loop and a low-level I/O API.In January 2010 a package manager was introduced for the Node.js environment called npm.[32] The package manager makes it easier for programmers to publish and share source code of Node.js packages and is designed to simplify installation updating and uninstallation of packages.In June 2011 Microsoft and Joyent implemented a native Windows version of Node.js.[33] The first Node.js build supporting Windows was released in July 2011 In January 2012 Dahl stepped aside promoting coworker and npm creator Isaac Schlueter to manage the project. In January 2014 Schlueter announced that Timothy J. Fontaine would lead the project.In December 2014 Fedor Indutny started io.js a fork of Node.js. Due to the internal conflict over Joyent's governance io.js was created as an open governance alternative with a separate technical committee.[36][37] Unlike Node.js the authors planned to keep io.js up-to-date with the latest releases of the Google V8 JavaScript engine.In February 2015 the intent to form a neutral Node.js Foundation was announced. By June 2015 the Node.js and io.js communities voted to work together under the Node.js Foundation.In September 2015 Node.js v0.12 and io.js v3.3 were merged back together into Node v4.0. This merge brought V8 ES6 features into Node.js and a long-term support release cycle.[42] As of 2016 the io.js website recommends that developers switch back to Node.js and that no further releases of io.js are planned due to the merge. In 2019 the JS Foundation and Node.js Foundation merged to form the OpenJS Foundation. In September 2022 Node.js 18.9.0 was released",
+        "photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fart-board-print%2FNode-js-Logo-by-th1341%2F16931604.7Q6GI&psig=AOvVaw0wC5rky7NDZBT_iHY9aboj&ust=1674319339051000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODmv97L1vwCFQAAAAAdAAAAABAJ"
     },
     {
         "_id": "08",
         "course_name": "Firebase",
-        "course_heading": "",
-        "course_details": "",
-        "photo": ""
+        "course_heading": "Have Fun While Implementing A Complete Authentication And Authorization System",
+        "course_details": "Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of online chat functionality into their websites. After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to sync application data such as game state in real time across their users. Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it.[1] They founded Firebase as a separate company in 2011 and it launched to the public in April 2012",
+        "photo": "http://www.stickpng.com/img/icons-logos-emojis/tech-companies/firebase-logo"
     },
     {
         "_id": "09",
         "course_name": "MongoDB",
-        "course_heading": "",
-        "course_details": "",
-        "photo": ""
+        "course_heading": "Get Familiar With A Database System",
+        "course_details": "10gen software company began developing MongoDB in 2007 as a component of a planned platform as a service product. In 2009, the company shifted to an open-source development model, with the company offering commercial support and other services. In 2013, 10gen changed its name to MongoDB Inc.On October 20, 2017, MongoDB became a publicly traded company, listed on NASDAQ as MDB with an IPO price of $24 per share MongoDB is a global company with US headquarters in New York City, USA and International headquarters in Dublin, Ireland.On October 30, 2019, MongoDB teamed up with Alibaba Cloud, who will offer its customers a MongoDB-as-a-service solution. Customers can use the managed offering from BABA's global data centers",
+        "photo": "https://iconscout.com/icons/mongodb"
     }
 ]
